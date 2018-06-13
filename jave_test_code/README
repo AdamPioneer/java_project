@@ -1,0 +1,4 @@
+/*compile java program */
+javac helloworld.java
+/*execute java program */
+java helloworld 
